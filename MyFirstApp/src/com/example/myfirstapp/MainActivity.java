@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         //test
         int i;
+        i++;
         return true;
     }
     
